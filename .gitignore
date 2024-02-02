@@ -1,0 +1,4 @@
+*.root
+*.gmad
+*.pdf
+bdsim/output
